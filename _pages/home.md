@@ -7,7 +7,7 @@ author_profile: true
 
 ## About Me
 
-I am Xinyu Liu, a first-year Ph.D. student in Computer Science at Michigan State University, advised by [Prof. Jun Wu](https://junwu6.github.io/). My research interests include Machine Learning and Natural Language Processing.
+I am Xinyu Liu, a first-year Ph.D. student in Computer Science at Michigan State University, advised by [Prof. Jun Wu](https://junwu6.github.io/).
 
 ## Research Interests
 
