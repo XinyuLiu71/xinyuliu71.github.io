@@ -138,14 +138,15 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar icon-pad-right"
-      url: "https://scholar.google.com/citations?user=你的ID"
+      # icon: "ai ai-google-scholar-square"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=1000000000000000000000000000000000000000"
     # - label: "ORCID"
     #   icon: "ai ai-orcid"
     #   url: "https://orcid.org/你的ID"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/你的ID"
+      url: "https://linkedin.com/in/your-linkedin-profile"
 
 # Site Footer
 footer:
