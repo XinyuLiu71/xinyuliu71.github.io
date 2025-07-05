@@ -8,7 +8,6 @@ classes: wide
 ## About Me
 
 I am Xinyu Liu, a first-year Ph.D. student in Computer Science at Michigan State University, advised by [Prof. Jun Wu](https://junwu6.github.io/).
-I am Xinyu Liu, a first-year Ph.D. student in Computer Science at Michigan State University, advised by [Prof. Jun Wu](https://junwu6.github.io/).
 
 ## Research Interests
 
