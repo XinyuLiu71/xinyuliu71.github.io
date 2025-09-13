@@ -2,10 +2,20 @@
 
 
 
-# Hi there
+# About Me
 
-My name is Ed Hinrichsen, I’m an award-winning web dev / digital designer and full stack software engineer. I have a passion for all things technology and design, from software engineering & machine learning to UI/UX & 3D graphics.
+I am Xinyu Liu, a first-year Ph.D. student in Computer Science at Michigan State University, advised by Prof. Jun Wu.
 
-In addition to my love of technology and design, I am also interested in education, history, economics and politics.
+## Research Interests
+- Trustworthy AI
+- Large Language models
+- Education
 
-Type "cd ~/projects" then "ls" to see details of some of the projects I have developed over my fifteen plus years of coding experience.
+## Education
+B.Eng. in Engineering, Sichuan University, 2025
+
+## Selected Publications
+- **Title1.** Author1, Author2, Xinyu Liu. Conference, 2023. [PDF](#)
+- **Title2.** Author1, Xinyu Liu, Author3. Journal, 2022. [PDF](#)
+
+Type "cd ~/projects" then "ls" to see details of some of the projects I have developed over my academic and research experience.
