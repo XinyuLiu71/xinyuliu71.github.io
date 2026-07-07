@@ -264,6 +264,62 @@ footer {
   position: relative;
 }
 
+.edu-list {
+  width: clamp(0px, 95vw, 680px);
+  margin: 0.5em auto;
+  padding: 0 16px;
+  box-sizing: border-box;
+}
+
+.edu-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  padding: 6px 0;
+  border-bottom: dashed 1px rgba(82, 82, 82, 0.3);
+}
+
+.edu-item:last-child {
+  border-bottom: none;
+}
+
+.edu-item span:last-child {
+  white-space: nowrap;
+  opacity: 0.75;
+  font-size: 0.9em;
+}
+
+.pub-card {
+  width: clamp(0px, 95vw, 680px);
+  margin: 0.8em auto 0.4em;
+  padding: 16px 20px;
+  box-sizing: border-box;
+  border: dashed 2px var(--color);
+  box-shadow: 4px 4px 0px rgba(82, 82, 82, 0.25);
+  text-align: left;
+}
+
+.pub-title {
+  font-weight: bold;
+  line-height: 1.6;
+  margin-bottom: 0.4em;
+}
+
+.pub-authors {
+  font-size: 0.9em;
+  line-height: 1.4;
+  margin-bottom: 0.5em;
+  opacity: 0.8;
+}
+
+.pub-venue {
+  font-size: 0.9em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 a {
   display: inline-block;
   color: inherit;
