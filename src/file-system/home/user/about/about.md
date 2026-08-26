@@ -16,6 +16,7 @@ Ph.D. in Computer Science, Michigan State University, 2025 – Present
 B.Eng. in Engineering, Sichuan University, 2025
 
 ## Selected Publications
+- **Diagnostic Analysis for Large Language Model Reasoning.** Xinyu Liu, Dongqi Fu, Jun Wu. EMNLP 2026.
 - **Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality.** Xinyu Liu, Jun Wu. ICML 2026. [Link](https://icml.cc/virtual/2026/poster/66457)
 
 Type "cd ~/projects" then "ls" to see details of some of the projects I have developed over my academic and research experience.
